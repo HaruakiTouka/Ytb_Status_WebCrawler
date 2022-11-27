@@ -1,0 +1,2 @@
+# Ytb_Status_WebCrawler
+使用Python，调用chromedriver来爬取各个Youtube的账号状态
